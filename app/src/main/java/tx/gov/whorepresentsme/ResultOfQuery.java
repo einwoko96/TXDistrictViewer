@@ -131,9 +131,6 @@ public class ResultOfQuery extends AppCompatActivity {
                             TextView textView = new TextView(context);
                             textView.setText(webpageUrl);
                             textView.setId(cnt.addAndGet(1));
-//                            textView.setClickable(true);
-//                            textView.setMovementMethod(LinkMovementMethod.getInstance());
-//                            textView.setText(Html.fromHtml(webpageUrl, Html.FROM_HTML_MODE_COMPACT));
                             textView.setGravity(Gravity.CENTER);
                             linearLayout.addView(textView);
                         }
