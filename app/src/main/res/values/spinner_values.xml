@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="district_type_array">
+        <item>All Districts</item>
+        <item>Senate</item>
+        <item>House</item>
+        <item>Congressional</item>
+        <item>State Board of Education</item>
+    </string-array>
+
+</resources>

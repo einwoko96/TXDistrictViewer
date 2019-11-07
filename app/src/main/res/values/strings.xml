@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BlockWalkr</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_result_of_query">ResultOfQuery</string>
+    <string name="title_activity_maps_detect">MapsDetect</string>
+    <string name="street_address">Street Address</string>
+    <string name="submit">SUBMIT</string>
+    <string name="use_my_location">USE MY LOCATION</string>
+    <string name="city">City</string>
+    <string name="zip_code">ZIP Code</string>
+    <string name="district_type">District Type</string>
+    <string name="service_not_available">No service available. Please try again later.</string>
+    <string name="invalid_lat_long_used">Invalid location.</string>
+    <string name="no_address_found">Address not found.</string>
+    <string name="address_found">Address found successfully.</string>
+</resources>
